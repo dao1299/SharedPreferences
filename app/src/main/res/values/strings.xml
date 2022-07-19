@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">SharedPreferencesAssignment</string>
+  <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="file_shared">SHARED</string>
+    <string name="key_username">USERNAME</string>
+  <string name="key_email">EMAIL</string>
+  <string name="key_address">ADDRESS</string>
+  <string name="key_account_payment">ACCOUNTPAYMENT</string>
+</resources>
